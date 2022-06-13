@@ -3,7 +3,7 @@
 1. Installed the application Xampp - https://www.apachefriends.org/download.html latest version.
 
 2. Apache en MySql running
-   ![image](https://user-images.githubusercontent.com/103993166/173367453-c029b2b5-30ec-4585-93fc-1552fc57f7ee.png)
+![image](https://user-images.githubusercontent.com/103993166/173367453-c029b2b5-30ec-4585-93fc-1552fc57f7ee.png)
 3. In config mode switched to automatically open apache en mySQL.
 4. Xdebug installation: https://odan.github.io/2020/12/03/xampp-xdebug-setup-php8.html
 
